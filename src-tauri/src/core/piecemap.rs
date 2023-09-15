@@ -1,6 +1,7 @@
 use crate::utils::check::CheckMove;
 use crate::utils::utils::*;
 
+
 /// A PieceMap represents all the pieces on the board in one array consisting of 64 u8-type values.
 ///
 /// Each u8 value represents a piece mapped to a binary number.
