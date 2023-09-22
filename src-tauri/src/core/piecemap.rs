@@ -19,7 +19,7 @@ pub struct PieceMap {
 }
 
 impl PieceMap {
-    /// Takes a string imput of the name of a piece and converts it to its piecemap representation.
+    /// Takes a string input of the name of a piece and converts it to its piecemap representation.
     ///
     /// # Arguments
     /// * `piece: String`   The string representation of the piece.
